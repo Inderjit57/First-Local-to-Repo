@@ -3,7 +3,7 @@ public class LocalRemoteRepository {
 
 	public static void main(String[] args) {
 		int weatherDegree1 = 30;
-		int weatherDegree2 = 20;
+		int weatherDegree2 = 30;
 		float sum = weatherDegree1 + weatherDegree2;
 		
 		String weatherCondition = "Merry Christmas and Happy new year";
